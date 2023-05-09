@@ -26,6 +26,10 @@
 storage.googleapis.com
 runs/*
 data/*
+dataset1/*
+dataset2/*
+dataset3/*
+datasetForVal/*
 data/images/*
 !data/*.yaml
 !data/hyps
